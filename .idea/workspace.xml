@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="408f9de7-e381-4d0f-91e6-a20ebb0ef98b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task1/SortDeclar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/LonelyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
